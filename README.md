@@ -31,7 +31,7 @@ Aquí hay algunas cosas sobre mí:
 
 Puedes encontrarme en los siguientes lugares en línea:
 
-- GitHub: [theriser44]([enlace-a-tu-perfil-de-github](https://github.com/OsWaldo982))
+- GitHub: [theriser44](https://github.com/OsWaldo982)
 - LinkedIn: [Tu nombre](enlace-a-tu-perfil-de-LinkedIn)
 
 ¡No dudes en contactarme si tienes alguna pregunta, sugerencia o simplemente quieres charlar sobre desarrollo en C#! Estoy ansioso/a por conectarme con otros desarrolladores apasionados como tú.
