@@ -1,39 +1,37 @@
-
-<h1 align="center">Hola soy Theriser44</h1>
-
-<h3> 
-- Practicante de C# .NET<br> 
-</h3>
+<h1 align="center">¡Hola, soy theriser44! 👋</h1>
 
 <p align="center">
- 
-</p> 
- 
+  <a href="enlace-a-tu-perfil-de-github"><img src="https://img.shields.io/badge/GitHub-theriser44-blue?style=flat-square&logo=github"></a>
+  <a href="enlace-a-tu-perfil-de-linkedin"><img src="https://img.shields.io/badge/LinkedIn-Tu%20nombre-blue?style=flat-square&logo=linkedin"></a>
+</p>
 
-<div align="center">
- 
-## ⚡ Technologies 
- 
-<div align="auto">
-<a title="C#"><img src="icons/csharp.png" /></a>
-<a title="Java"><img src="icons/java.png"/></a>
- </div> 
- 
- 
-## Github Achievements
-  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OsWaldo982&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">Desarrollador/a especializado en C#</p>
 
-## Used languages
+<p align="center">
+  <img src="https://img.shields.io/badge/C%23-Expert-green?style=flat-square&logo=csharp">
+  <img src="https://img.shields.io/badge/.NET-Proficient-yellow?style=flat-square&logo=dotnet">
+  <img src="https://img.shields.io/badge/ASP.NET-Moderate-yellow?style=flat-square&logo=aspdotnet">
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OsWaldo982&theme=tokyonight&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+¡Bienvenido/a a mi perfil de GitHub! Soy theriser44, un apasionado desarrollador especializado en C#. Me encanta crear soluciones de software y contribuir a proyectos de código abierto.
 
-## Metrics
+## Sobre mí
 
-![Metrics](https://metrics.lecoq.io/OsWaldo982?template=classic&repositories.forks=true&base.metadata=0&languages=1&followup=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&followup.sections=repositories&config.timezone=America%2FPanama&config.padding=0%2C%2015%25)
+Desde que comencé a programar en C#, me he enamorado de su elegancia y potencia. Me dedico a explorar y aprender nuevas tecnologías relacionadas con el ecosistema de .NET y aplicarlas en mis proyectos.
 
-## Follow me! 
-![Git](https://img.shields.io/github/followers/OsWaldo982?style=social)
- 
-</div>
-</div>
+Aquí hay algunas cosas sobre mí:
+
+- 🔭 Actualmente estoy trabajando en proyectos de desarrollo de aplicaciones en C#.
+- 🌱 Siempre estoy aprendiendo y mejorando mis habilidades en C#. Me mantengo actualizado/a sobre las últimas tendencias y mejores prácticas en el desarrollo de software.
+- 💼 Tengo experiencia en el desarrollo de aplicaciones de escritorio, aplicaciones web y servicios web utilizando tecnologías como WinForms, WPF, ASP.NET, ASP.NET Core y Entity Framework.
+- 💡 Mi enfoque principal es la programación orientada a objetos, la arquitectura de software y el diseño limpio de código.
+- 💬 No dudes en contactarme si tienes alguna pregunta, sugerencia o simplemente quieres charlar sobre desarrollo en C#. Estoy ansioso/a por conectarme con otros desarrolladores apasionados como tú.
+
+## Contacto
+
+Puedes encontrarme en los siguientes lugares en línea:
+
+- GitHub: [theriser44](enlace-a-tu-perfil-de-github)
+- LinkedIn: [Tu nombre](enlace-a-tu-perfil-de-LinkedIn)
+
+¡No dudes en contactarme si tienes alguna pregunta, sugerencia o simplemente quieres charlar sobre desarrollo en C#! Estoy ansioso/a por conectarme con otros desarrolladores apasionados como tú.
