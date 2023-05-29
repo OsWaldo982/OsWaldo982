@@ -2,7 +2,6 @@
 
 <p align="center">
   <a href="enlace-a-tu-perfil-de-github"><img src="https://img.shields.io/badge/GitHub-theriser44-blue?style=flat-square&logo=github"></a>
-  <a href="enlace-a-tu-perfil-de-linkedin"><img src="https://img.shields.io/badge/LinkedIn-Tu%20nombre-blue?style=flat-square&logo=linkedin"></a>
 </p>
 
 <p align="center">Desarrollador/a especializado en C#</p>
@@ -32,6 +31,5 @@ Aquí hay algunas cosas sobre mí:
 Puedes encontrarme en los siguientes lugares en línea:
 
 - GitHub: [theriser44](https://github.com/OsWaldo982)
-- LinkedIn: [Tu nombre](enlace-a-tu-perfil-de-LinkedIn)
 
 ¡No dudes en contactarme si tienes alguna pregunta, sugerencia o simplemente quieres charlar sobre desarrollo en C#! Estoy ansioso/a por conectarme con otros desarrolladores apasionados como tú.
