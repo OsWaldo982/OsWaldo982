@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola, soy theriser44! 👋</h1>
+<h1 align="center">¡Hola, soy Osvaldo! 👋</h1>
 
 <p align="center">
   <a href="enlace-a-tu-perfil-de-github"><img src="https://img.shields.io/badge/GitHub-theriser44-blue?style=flat-square&logo=github"></a>
