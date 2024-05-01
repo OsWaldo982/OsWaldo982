@@ -4,7 +4,7 @@
   <a href="enlace-a-tu-perfil-de-github"><img src="https://img.shields.io/badge/GitHub-theriser44-blue?style=flat-square&logo=github"></a>
 </p>
 
-<p align="center">Desarrollador/a especializado en C#</p>
+<p align="center">Desarrollador C#</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/C%23-Expert-green?style=flat-square&logo=csharp">
@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/ASP.NET-Moderate-yellow?style=flat-square&logo=aspdotnet">
 </p>
 
-¡Bienvenido/a a mi perfil de GitHub! Soy theriser44, un apasionado desarrollador especializado en C#. Me encanta crear soluciones de software y contribuir a proyectos de código abierto.
+¡Bienvenido/a a mi perfil de GitHub! Soy Osvaldo, un apasionado desarrollador especializado en C#. Me encanta crear Juegos y Desarrollar sofware.
 
 ## Sobre mí
 
@@ -23,13 +23,4 @@ Aquí hay algunas cosas sobre mí:
 - 🔭 Actualmente estoy trabajando en proyectos de desarrollo de aplicaciones en C#.
 - 🌱 Siempre estoy aprendiendo y mejorando mis habilidades en C#. Me mantengo actualizado/a sobre las últimas tendencias y mejores prácticas en el desarrollo de software.
 - 💼 Tengo experiencia en el desarrollo de aplicaciones de escritorio, aplicaciones web y servicios web utilizando tecnologías como WinForms, WPF, ASP.NET, ASP.NET Core y Entity Framework.
-- 💡 Mi enfoque principal es la programación orientada a objetos, la arquitectura de software y el diseño limpio de código.
-- 💬 No dudes en contactarme si tienes alguna pregunta, sugerencia o simplemente quieres charlar sobre desarrollo en C#. Estoy ansioso/a por conectarme con otros desarrolladores apasionados como tú.
-
-## Contacto
-
-Puedes encontrarme en los siguientes lugares en línea:
-
-- GitHub: [theriser44](https://github.com/OsWaldo982)
-
-¡No dudes en contactarme si tienes alguna pregunta, sugerencia o simplemente quieres charlar sobre desarrollo en C#! Estoy ansioso/a por conectarme con otros desarrolladores apasionados como tú.
+- 💡 Mi enfoque principal es la programación orientada a objetos, la arquitectura de software, el diseño limpio de código y Desarrollo de videoJuegos con unity3d.
