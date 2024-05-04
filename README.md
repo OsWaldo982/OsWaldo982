@@ -4,7 +4,7 @@
   <a href="enlace-a-tu-perfil-de-github"><img src="https://img.shields.io/badge/GitHub-theriser44-blue?style=flat-square&logo=github"></a>
 </p>
 
-<p align="center">Desarrollador C#</p>
+<p align="center">Desarrollador C#, Java y c++</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/C%23-Expert-green?style=flat-square&logo=csharp">
