@@ -13,11 +13,11 @@
   <img src="https://img.shields.io/badge/Kotlin-Junior-purple?style=flat-square&logo=Kotlin">
 </p>
 
-¡Bienvenido/a a mi perfil de GitHub! Soy Osvaldo, un apasionado desarrollador especializado en C# y java.
+¡Bienvenido/a a mi perfil de GitHub!.
 
 ## Sobre mí
 
 Me gusta investigar y aprender
 
-- 🔭 Actualmente estoy trabajando en proyectos de desarrollo de aplicaciones en Kolin.
+- 🔭 Actualmente estoy trabajando en proyectos de desarrollo de aplicaciones en Kotlin.
 
