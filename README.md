@@ -8,7 +8,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/C%23-Expert-green?style=flat-square&logo=csharp">
-  <img src="https://img.shields.io/badge/.NET-Proficient-yellow?style=flat-square&logo=dotnet">
+  <img src="https://img.shields.io/badge/java-Mid-yellow?style=flat-square&logo=java">
 
   <img src="https://img.shields.io/badge/Kotlin-Junior-purple?style=flat-square&logo=Kotlin">
 </p>
