@@ -4,13 +4,11 @@
   <a href="enlace-a-tu-perfil-de-github"><img src="https://img.shields.io/badge/GitHub-theriser44-blue?style=flat-square&logo=github"></a>
 </p>
 
-<p align="center">Desarrollador C#, Java y Kotlin</p>
-<p align="center">C#, Java and Kotlin Developer</p>
+<p align="center">Desarrollador C# y Kotlin</p>
+<p align="center">C# and Kotlin Developer</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/C%23-Expert-green?style=flat-square&logo=csharp">
-  <img src="https://img.shields.io/badge/java-Mid-yellow?style=flat-square&logo=oracle">
-
   <img src="https://img.shields.io/badge/Kotlin-Mid-purple?style=flat-square&logo=Kotlin">
 </p>
 
