@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://bit.ly/ditoxsoft"><img src="https://img.shields.io/badge/Google%20Play-DitoXsoft-414141?style=flat-square&logo=google-play"></a>
+  <a href="https://bit.ly/3MJo2Ru"><img src="https://img.shields.io/badge/Google%20Play-DitoXsoft-414141?style=flat-square&logo=google-play"></a>
   <a href="https://github.com/OsWaldo982"><img src="https://img.shields.io/badge/GitHub-OsWaldo982-181717?style=flat-square&logo=github"></a>
   <a href="[Link a tu YouTube si quieres]"><img src="https://img.shields.io/badge/YouTube-@Theriser44-FF0000?style=flat-square&logo=youtube"></a>
 </p>
@@ -33,7 +33,7 @@ Independent Android Developer with **+6 apps published on Google Play**. Current
 | **CrazyUP** | Juego casual | 🎮 Publicada |
 | **Magic Number** | Juego de números | 🔢 Publicada |
 
-🔗 **Ver todas:** [Google Play / DitoXsoft](bit.ly/3MJo2Ru)
+🔗 **Ver todas:** [Google Play / DitoXsoft](https://bit.ly/3MJo2Ru))
 
 ---
 
@@ -83,8 +83,7 @@ Clon de Instagram con fines educativos. Tecnologías:
 ## 📫 Contacto / Contact
 
 - 📧 [osvaldogo.o2402@gmail.com]
-- 📲 **Google Play:** [bit.ly/ditoxsoft](bit.ly/3MJo2Ru)
-
+- 📲 **Google Play:** [bit.ly/ditoxsoft](https://bit.ly/3MJo2Ru)
 ---
 
 <p align="center">
