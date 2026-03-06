@@ -16,9 +16,9 @@
 
 ## 🧑‍💻 Sobre mí / About me
 
-Desarrollador Android independiente con **+6 aplicaciones publicadas en Google Play** (2 de ellas con más de 1000 descargas) y **+6 años de experiencia en soporte técnico**. Actualmente curso **Desarrollo de Aplicaciones Móviles en DUOC UC** (100% online) para profesionalizar mis conocimientos.
+Desarrollador Android independiente con **+6 aplicaciones publicadas en Google Play**. Actualmente curso **Desarrollo de Aplicaciones Móviles en DUOC UC** (100% online) para profesionalizar mis conocimientos.
 
-Independent Android Developer with **+6 apps published on Google Play** (2 of them with 1000+ downloads) and **+6 years of technical support experience**. Currently studying **Mobile Application Development at DUOC UC** (100% online) to professionalize my skills.
+Independent Android Developer with **+6 apps published on Google Play**. Currently studying **Mobile Application Development at DUOC UC** (100% online) to professionalize my skills.
 
 ---
 
@@ -33,7 +33,7 @@ Independent Android Developer with **+6 apps published on Google Play** (2 of th
 | **CrazyUP** | Juego casual | 🎮 Publicada |
 | **Magic Number** | Juego de números | 🔢 Publicada |
 
-🔗 **Ver todas:** [Google Play / DitoXsoft](https://bit.ly/ditoxsoft)
+🔗 **Ver todas:** [Google Play / DitoXsoft](bit.ly/3MJo2Ru)
 
 ---
 
@@ -53,7 +53,6 @@ App Android para consultar feriados en Chile. Desarrollada con:
 
 Clon de Instagram con fines educativos. Tecnologías:
 - ✅ Kotlin
-- ✅ Firebase (Auth, Storage, Realtime Database)
 - ✅ MVVM
 
 ---
@@ -62,44 +61,29 @@ Clon de Instagram con fines educativos. Tecnologías:
 
 | Categoría | Tecnologías |
 |-----------|-------------|
-| **Lenguajes** | Kotlin, Java, C#, Python (básico) |
-| **Android** | Jetpack Compose, MVVM, Clean Architecture, Dagger Hilt, Retrofit, Room |
+| **Lenguajes** | Kotlin, Java, C# |
+| **Android** | Jetpack Compose, MVVM, Clean Architecture, Dagger Hilt, Retrofit, Room, Coil |
+| **Multiplataforma** | Kotlin Multiplatform (KMP), Ktor Client |
 | **Herramientas** | Git, GitHub, Firebase, APIs REST |
-| **Otros** | Soporte técnico, mantenimiento de PC, reparación de celulares |
-
 ---
 
 ## 💼 Experiencia / Experience
 
 - **Desarrollador Android Independiente** — *DitoXsoft* (2025 - presente)
   - Desarrollo y publicación de apps en Google Play
-  - +6 apps publicadas, +1000 usuarios en app destacada
-
-- **Técnico en Reparación y Servicios Informáticos** — *Independiente* (2019 - presente)
-  - Formateo, clonación de discos, instalación de software
-  - Armado de PC a pedido, cambio de pantallas en celulares
-
-- **Reponedor / Cajero / Atención al Cliente** — *Botillería La Aventura* (2023 - 2024)
-  - Reposición, atención al cliente, manejo de caja, corte de fiambre
-
+  - +6 apps publicadas
 ---
 
 ## 📚 Educación / Education
 
 - **Desarrollo de Aplicaciones Móviles** — *DUOC UC* (2026 - presente)  
   Carrera 100% online · 10 bimestres · Inicio: Marzo 2026
-
-- **Enseñanza Media Completa** — *Liceo Comercial Alejandro Lubet V* (2022 - 2024)  
-  Licencia de Enseñanza Media
-
 ---
 
 ## 📫 Contacto / Contact
 
-- 📧 [Tu email profesional]
-- 📱 [Tu teléfono o WhatsApp]
-- 🔗 [LinkedIn - si tienes o quieres crear uno]
-- 📲 **Google Play:** [bit.ly/ditoxsoft](https://bit.ly/ditoxsoft)
+- 📧 [osvaldogo.o2402@gmail.com]
+- 📲 **Google Play:** [bit.ly/ditoxsoft](bit.ly/3MJo2Ru)
 
 ---
 
