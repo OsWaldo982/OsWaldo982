@@ -62,7 +62,7 @@ Clon de Instagram con fines educativos. Tecnologías:
 | Categoría | Tecnologías |
 |-----------|-------------|
 | **Lenguajes** | Kotlin, Java, C# |
-| **Android** | Jetpack Compose, MVVM, Clean Architecture, Dagger Hilt, Retrofit, Room, Coil |
+| **Android** | Jetpack Compose, MVVM, Clean Architecture, Dagger Hilt, Retrofit, Room, Koin |
 | **Multiplataforma** | Kotlin Multiplatform (KMP), Ktor Client |
 | **Herramientas** | Git, GitHub, Firebase, APIs REST |
 ---
