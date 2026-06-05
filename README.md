@@ -8,9 +8,15 @@
 </p>
 
 <p align="center">
-  <a href="http://bit.ly/4eppvHj"><img src="https://img.shields.io/badge/Google%20Play-DitoXsoft-414141?style=flat-square&logo=google-play"></a>
-  <a href="https://github.com/OsWaldo982"><img src="https://img.shields.io/badge/GitHub-OsWaldo982-181717?style=flat-square&logo=github"></a>
-  <a href="[Link a tu YouTube si quieres]"><img src="https://img.shields.io/badge/YouTube-@Theriser44-FF0000?style=flat-square&logo=youtube"></a>
+  <a href="https://github.com/OsWaldo982">
+    <img src="https://img.shields.io/badge/GitHub-OsWaldo982-181717?style=for-the-badge&logo=github">
+  </a>
+  <a href="https://www.youtube.com/@Theriser44">
+    <img src="https://img.shields.io/badge/YouTube-Theriser44-FF0000?style=for-the-badge&logo=youtube">
+  </a>
+  <a href="https://ditoxshop.com">
+    <img src="https://img.shields.io/badge/Website-DitoXsoft-4285F4?style=for-the-badge&logo=google-chrome">
+  </a>
 </p>
 
 ---
