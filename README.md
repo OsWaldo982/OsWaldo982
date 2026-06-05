@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/badge/Desarrollador%20Android-Expert-purple?style=for-the-badge&logo=android">
   <img src="https://img.shields.io/badge/Kotlin-Intermediate-orange?style=for-the-badge&logo=kotlin">
   <img src="https://img.shields.io/badge/C%23-Intermediate-green?style=for-the-badge&logo=csharp">
-  <img src="https://img.shields.io/badge/C%23-Intermediate-green?style=for-the-badge&logo=java">
+  <img src="https://img.shields.io/badge/Java-Intermediate-green?style=for-the-badge&logo=java">
 </p>
 
 <p align="center">
