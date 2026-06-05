@@ -17,9 +17,9 @@
 
 ## 🧑‍💻 Sobre mí / About me
 
-Desarrollador Android independiente con **+6 aplicaciones publicadas en Google Play**. Actualmente curso **Desarrollo de Aplicaciones Móviles en DUOC UC** (100% online) para profesionalizar mis conocimientos.
+Desarrollador Android independiente con **+4 aplicaciones publicadas en Google Play**. Actualmente curso **Desarrollo de Aplicaciones Móviles en DUOC UC** (100% online) para profesionalizar mis conocimientos.
 
-Independent Android Developer with **+6 apps published on Google Play**. Currently studying **Mobile Application Development at DUOC UC** (100% online) to professionalize my skills.
+Independent Android Developer with **+4 apps published on Google Play**. Currently studying **Mobile Application Development at DUOC UC** (100% online) to professionalize my skills.
 
 ---
 
@@ -28,13 +28,13 @@ Independent Android Developer with **+6 apps published on Google Play**. Current
 | App | Descripción | Estado |
 |-----|-------------|--------|
 | **Detector de Sismos** | Sismos en tiempo real (magnitud, ubicación, hora) | 📱 +1000 descargas |
-| **Detector de Sismos Pro** | Versión premium sin publicidad | 💰 $1.900 CLP |
 | **Farmacias de Turno** | Localiza farmacias de turno en Chile | 🏪 Publicada |
 | **Cálculos Eléctricos** | Herramienta para cálculos eléctricos | ⚡ Publicada |
-| **CrazyUP** | Juego casual | 🎮 Publicada |
-| **Magic Number** | Juego de números | 🔢 Publicada |
+| **DocuSide-Lector de documentos** | Herramienta para leer documentos con soporte multiformato | ⚡ Publicada |
 
-🔗 **Ver todas:** [Google Play / DitoXsoft](https://bit.ly/3MJo2Ru))
+
+
+🔗 **Ver todas:** [Google Play / Ditoxsoft](https://bit.ly/4eppvhj))
 
 ---
 
@@ -70,9 +70,9 @@ Clon de Instagram con fines educativos. Tecnologías:
 
 ## 💼 Experiencia / Experience
 
-- **Desarrollador Android Independiente** — *DitoXsoft* (2025 - presente)
+- **Desarrollador Android Independiente** — *Ditoxsoft* (2020 - presente)
   - Desarrollo y publicación de apps en Google Play
-  - +6 apps publicadas
+  - +4 apps publicadas
 ---
 
 ## 📚 Educación / Education
@@ -84,7 +84,7 @@ Clon de Instagram con fines educativos. Tecnologías:
 ## 📫 Contacto / Contact
 
 - 📧 [osvaldogo.o2402@gmail.com]
-- 📲 **Google Play:** [bit.ly/ditoxsoft](https://bit.ly/3MJo2Ru)
+- 📲 **Google Play:** [bit.ly/Ditoxsoft](https://bit.ly/4eppvHj)
 ---
 
 <p align="center">
