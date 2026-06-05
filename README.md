@@ -18,9 +18,6 @@
   <a href="https://ditoxshop.com">
     <img src="https://img.shields.io/badge/Website-DitoXsoft-4285F4?style=for-the-badge&logo=google-chrome">
   </a>
-  <a href="https://youtube.com/@Theriser44">
-    <img src="https://img.shields.io/badge/YouTube-@Theriser44-FF0000?style=for-the-badge&logo=youtube">
-  </a>
   <a href="mailto:osvaldogo.o2402@gmail.com">
     <img src="https://img.shields.io/badge/Email-osvaldogo.o2402%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
@@ -126,16 +123,9 @@ Clon de Instagram con fines educativos. Tecnologías:
   <a href="https://github.com/OsWaldo982">
     <img src="https://img.shields.io/badge/GitHub-OsWaldo982-181717?style=flat-square&logo=github">
   </a>
-  <a href="https://youtube.com/@Theriser44">
-    <img src="https://img.shields.io/badge/YouTube-@Theriser44-FF0000?style=flat-square&logo=youtube">
-  </a>
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/OsWaldo982/OsWaldo982/output/github-contribution-grid-snake-dark.svg" alt="snake">
-</p>
 
 <p align="center">
   ⭐ ¡Gracias por visitar mi perfil! / Thanks for visiting my profile! ⭐
