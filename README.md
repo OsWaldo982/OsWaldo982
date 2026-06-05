@@ -39,13 +39,19 @@ Independent Android Developer with **+4 apps published on Google Play**. Current
 ## 📊 Estadísticas de GitHub / GitHub Stats
 
 <p align="center">
+  <!-- Estadísticas generales -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=OsWaldo982&show_icons=true&theme=dark&locale=es&bg_color=0d1117&border_color=30363d"/>
+  <!-- Lenguajes más usados -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OsWaldo982&layout=compact&theme=dark&locale=es&bg_color=0d1117&border_color=30363d"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OsWaldo982&theme=dark&background=0d1117&border=30363d" alt="GitHub Streak" />
+  <!-- Racha de contribuciones (usando servicio alternativo y robusto) -->
+  <img src="https://streak-stats.demolab.com?user=OsWaldo982&theme=dark&background=0d1117&border=30363d&locale=es" alt="GitHub Streak" />
 </p>
+
+<!-- Nota: Si el servicio .vercel.app sigue sin funcionar, prueba a cambiar la URL por: -->
+<!-- https://gh-readme-stats-git-master-oswaldo982s-projects.vercel.app/api?username=OsWaldo982 (es un mirror no oficial pero fiable) -->
 
 ---
 
