@@ -1,7 +1,7 @@
 <h1 align="center">👋 ¡Hola! Soy Osvaldo / Hello, I'm Osvaldo</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Desarrollador?style=for-the-badge&logo=android">
+  <img src="https://img.shields.io/badge/Desarrollador%?style=for-the-badge&logo=android">
   <img src="https://img.shields.io/badge/Kotlin-Advanced-orange?style=for-the-badge&logo=kotlin">
   <img src="https://img.shields.io/badge/C%23-Intermediate-green?style=for-the-badge&logo=csharp">
 </p>
