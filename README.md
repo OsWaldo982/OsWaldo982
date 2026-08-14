@@ -1,4 +1,3 @@
-```markdown
 <h1 align="center">👋 ¡Hola! Soy Osvaldo / Hello, I'm Osvaldo</h1>
 
 <h3 align="center">
@@ -6,11 +5,11 @@ Desarrollador de Aplicaciones Móviles · Mobile Application Developer
 </h3>
 
 <p align="center">
-  Android · iOS · Flutter
+  Android · iOS · Flutter · Kotlin Multiplatform
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=OsWaldo982&label=👁️+Visitas+al+perfil&color=0e75b6&style=for-the-badge" alt="Visitas al perfil" />
+  <img src="https://komarev.com/ghpvc/?username=OsWaldo982&label=Visitas+al+perfil&color=0e75b6&style=for-the-badge" alt="Visitas al perfil" />
 </p>
 
 <p align="center">
@@ -18,6 +17,7 @@ Desarrollador de Aplicaciones Móviles · Mobile Application Developer
   <img src="https://img.shields.io/badge/Kotlin-Developer-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
   <img src="https://img.shields.io/badge/Swift-iOS%20Junior-F05138?style=for-the-badge&logo=swift&logoColor=white">
   <img src="https://img.shields.io/badge/Flutter-Learning-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+  <img src="https://img.shields.io/badge/Kotlin%20Multiplatform-KMP-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
 </p>
 
 <p align="center">
@@ -38,7 +38,7 @@ Desarrollador de Aplicaciones Móviles · Mobile Application Developer
 
 Soy desarrollador independiente de aplicaciones móviles, con experiencia principalmente en el ecosistema **Android** y con más de **4 aplicaciones publicadas en Google Play**.
 
-Actualmente estoy ampliando mis conocimientos hacia el desarrollo multiplataforma y el ecosistema Apple, trabajando con **Swift para iOS** y **Flutter/Dart para aplicaciones Android e iOS**.
+Actualmente estoy ampliando mis conocimientos hacia el desarrollo multiplataforma y el ecosistema Apple, trabajando con **Swift para iOS**, **Flutter/Dart** y **Kotlin Multiplatform (KMP)** para compartir lógica entre Android e iOS.
 
 También curso la carrera de **Desarrollo de Aplicaciones Móviles en DUOC UC**, con el objetivo de complementar mi experiencia práctica con una formación profesional en desarrollo de software.
 
@@ -46,7 +46,7 @@ También curso la carrera de **Desarrollo de Aplicaciones Móviles en DUOC UC**,
 
 I'm an independent mobile application developer with experience primarily in the **Android ecosystem** and more than **4 applications published on Google Play**.
 
-I'm currently expanding my skills into multiplatform development and the Apple ecosystem, working with **Swift for iOS** and **Flutter/Dart for Android and iOS applications**.
+I'm currently expanding my skills into multiplatform development and the Apple ecosystem, working with **Swift for iOS**, **Flutter/Dart**, and **Kotlin Multiplatform (KMP)** to share logic between Android and iOS.
 
 I'm also studying **Mobile Application Development at DUOC UC**, combining practical development experience with formal software development education.
 
@@ -77,6 +77,7 @@ I'm also studying **Mobile Application Development at DUOC UC**, combining pract
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white">
   <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white">
+  <img src="https://img.shields.io/badge/Kotlin%20Multiplatform-7F52FF?style=flat-square&logo=kotlin&logoColor=white">
 </p>
 
 ### 💻 Lenguajes / Languages
@@ -89,31 +90,36 @@ I'm also studying **Mobile Application Development at DUOC UC**, combining pract
   <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white">
 </p>
 
-### 🧱 Arquitectura y desarrollo Android
+### 🤖 Android
 
+- Kotlin
+- Java
+- Jetpack Compose
 - MVVM
 - Clean Architecture
-- Jetpack Compose
 - Dagger Hilt
 - Koin
 - Retrofit
 - Room
 - Coroutines
 - APIs REST
+- Firebase
 
 ### 🌐 Multiplataforma
 
 - Flutter
 - Dart
-- Kotlin Multiplatform
+- Kotlin Multiplatform (KMP)
 - Ktor Client
+- Compartición de lógica entre Android e iOS
 
 ### 🍎 iOS
 
 - Swift
 - Xcode
 - Desarrollo iOS
-- Integración y pruebas de aplicaciones en App Store
+- Integración y pruebas de aplicaciones
+- App Store Connect
 
 ### 🔧 Herramientas y servicios
 
@@ -147,10 +153,12 @@ I'm also studying **Mobile Application Development at DUOC UC**, combining pract
 
 - Diseño, desarrollo y mantenimiento de aplicaciones móviles.
 - Publicación y administración de aplicaciones en Google Play.
-- Implementación de monetización mediante publicidad y compras dentro de aplicaciones.
+- Desarrollo de aplicaciones Android con Kotlin y Java.
+- Desarrollo y adaptación de aplicaciones multiplataforma con Flutter.
+- Aprendizaje y desarrollo con Swift para iOS.
+- Trabajo con Kotlin Multiplatform (KMP) para proyectos Android/iOS.
 - Integración de APIs REST y servicios Firebase.
-- Desarrollo de interfaces modernas para Android.
-- Desarrollo y adaptación de aplicaciones para Android e iOS.
+- Implementación de monetización mediante publicidad y compras dentro de aplicaciones.
 - Más de 4 aplicaciones publicadas.
 
 ---
@@ -168,6 +176,7 @@ Carrera online orientada al diseño, desarrollo, arquitectura, bases de datos y 
 
 - 🍎 Swift y desarrollo nativo para iOS
 - 💙 Flutter y Dart
+- 🟣 Kotlin Multiplatform (KMP)
 - 📱 Desarrollo multiplataforma Android + iOS
 - 🏗️ Arquitecturas modernas de software
 - ☁️ Integración de servicios backend y APIs
@@ -201,4 +210,3 @@ Carrera online orientada al diseño, desarrollo, arquitectura, bases de datos y 
 <p align="center">
   ⭐ ¡Gracias por visitar mi perfil! / Thanks for visiting my profile! ⭐
 </p>
-```
